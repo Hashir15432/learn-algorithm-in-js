@@ -1,4 +1,4 @@
-# 🧠 Algorithms in JavaScript
+# Algorithms in JavaScript
 
 Welcome to the **Algorithms in JavaScript** repository!  
 This repo contains clean and well-documented implementations of fundamental and advanced algorithms using modern JavaScript (ES6+). A helpful resource for coding interview preparation, competitive programming, or deepening your understanding of algorithms.
@@ -17,25 +17,25 @@ This repo contains clean and well-documented implementations of fundamental and 
 
 ---
 
-## 📌 About the Repo
+## About the Repo
 
 This repository contains implementation of algorithms categorized by type. Each algorithm file includes:
 
-- ✅ Problem Description  
-- ✅ Time and Space Complexity  
-- ✅ JavaScript Implementation  
-- ✅ Sample Input/Output  
+-  Problem Description  
+-  Time and Space Complexity  
+-  JavaScript Implementation  
+-  Sample Input/Output  
 
 ---
 
-## 🧮 Algorithms Covered
+##  Algorithms Covered
 
-### 🔹 Searching Algorithms
+### Searching Algorithms
 - Linear Search
 - Binary Search
 - Interpolation Search
 
-### 🔹 Sorting Algorithms
+### Sorting Algorithms
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -43,22 +43,22 @@ This repository contains implementation of algorithms categorized by type. Each 
 - Quick Sort
 - Heap Sort
 
-### 🔹 Recursion and Divide & Conquer
+### Recursion and Divide & Conquer
 - Tower of Hanoi
 - Fibonacci Sequence
 - Binary Search (recursive)
 
-### 🔹 Dynamic Programming
+### Dynamic Programming
 - Climbing Stairs
 - Longest Common Subsequence
 - 0/1 Knapsack Problem
 
-### 🔹 Graph Algorithms
+### Graph Algorithms
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 - Dijkstra’s Algorithm
 
-### 🔹 Greedy Algorithms
+### Greedy Algorithms
 - Activity Selection
 - Huffman Coding
 
@@ -69,7 +69,7 @@ This repository contains implementation of algorithms categorized by type. Each 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository
